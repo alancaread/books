@@ -1,0 +1,12 @@
+{
+  "books": {
+    "10008": {
+      "cards": 10,
+      "max_run": 20,
+      "all_views_overlap": 40,
+      "forum_files": 9,
+      "podcast": false
+    }
+  },
+  "errors": []
+}
