@@ -38,3 +38,40 @@ document.querySelectorAll('.podcast').forEach(section => {
   };
   search.addEventListener('input', filter); filter();
 });
+document.querySelectorAll('.book-visuals').forEach(section => {
+  const select = section.querySelector('[data-person-select]');
+  const nodes = [...section.querySelectorAll('[data-person]')];
+  const rows = [...section.querySelectorAll('[data-related]')];
+  const choose = key => {
+    select.value = key;
+    nodes.forEach(node => node.setAttribute('aria-pressed', String(Boolean(key) && node.dataset.person === key)));
+    rows.forEach(row => {
+      const related = Boolean(key) && row.dataset.related.split(' ').includes(key);
+      row.classList.toggle('is-related', related);
+      row.classList.toggle('is-muted', Boolean(key) && !related);
+    });
+    section.querySelectorAll('[data-person-description]').forEach(p => { p.hidden = p.dataset.personDescription !== key; });
+    const events = section.querySelectorAll('.time-event.is-related').length;
+    const relations = section.querySelectorAll('.relation-pair.is-related').length;
+    section.querySelector('[data-visual-count]').textContent = key
+      ? `${select.selectedOptions[0].textContent}：${events} 个事件，${relations} 组联系。其余内容仍可浏览。`
+      : '点击人名，可同时高亮相关事件和关系。';
+    section.querySelectorAll('.visual-scroll').forEach(list => {
+      const first = list.querySelector('.is-related');
+      list.scrollTop = first ? list.scrollTop + first.getBoundingClientRect().top - list.getBoundingClientRect().top - 4 : 0;
+    });
+  };
+  nodes.forEach(node => node.addEventListener('click', () => choose(node.dataset.person)));
+  select.addEventListener('change', () => choose(select.value));
+  section.querySelector('[data-person-reset]').addEventListener('click', () => choose(''));
+});
+
+// The original edition cover opens inside the current page.
+const coverDialog = document.querySelector('[data-cover-dialog]');
+const coverOpener = document.querySelector('[data-cover-open]');
+if (coverDialog && coverOpener) {
+  coverOpener.addEventListener('click', () => coverDialog.showModal());
+  document.querySelector('[data-cover-close]').addEventListener('click', () => coverDialog.close());
+  coverDialog.addEventListener('click', event => { if (event.target === coverDialog) coverDialog.close(); });
+  coverDialog.addEventListener('close', () => coverOpener.focus());
+}

@@ -1,0 +1,40 @@
+{
+  "book_id": "10008",
+  "title": "《下沉年代》：努力之外，生活还靠什么托住",
+  "duration_s": 692.4,
+  "audio": "podcast/10008/episode.m4a",
+  "transcript": "podcast/10008/transcript.json",
+  "generated_at": "2026-09-27T22:58:24Z",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场：塔米的文凭",
+      "article_anchor": "article"
+    },
+    {
+      "start": 92.0,
+      "title": "一张文凭，几道门",
+      "article_anchor": "s1"
+    },
+    {
+      "start": 255.0,
+      "title": "时间表，也是一种生活条件",
+      "article_anchor": "s2"
+    },
+    {
+      "start": 387.0,
+      "title": "城市好起来，谁的日子好起来",
+      "article_anchor": "s3"
+    },
+    {
+      "start": 532.0,
+      "title": "成功故事里，谁站在画面之外",
+      "article_anchor": "s4"
+    },
+    {
+      "start": 619.0,
+      "title": "把故事带走，也把问题留下",
+      "article_anchor": "s5"
+    }
+  ]
+}
