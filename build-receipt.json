@@ -192,6 +192,12 @@
       "all_views_overlap": 42,
       "podcast": false
     },
+    "10009": {
+      "cards": 0,
+      "max_run": 0,
+      "all_views_overlap": 0,
+      "podcast": false
+    },
     "10026": {
       "cards": 0,
       "max_run": 27,
@@ -436,6 +442,54 @@
       "cards": 0,
       "max_run": 25,
       "all_views_overlap": 25,
+      "podcast": false
+    },
+    "7844": {
+      "cards": 0,
+      "max_run": 0,
+      "all_views_overlap": 0,
+      "podcast": false
+    },
+    "7871": {
+      "cards": 0,
+      "max_run": 22,
+      "all_views_overlap": 22,
+      "podcast": false
+    },
+    "7898": {
+      "cards": 0,
+      "max_run": 0,
+      "all_views_overlap": 0,
+      "podcast": false
+    },
+    "7981": {
+      "cards": 0,
+      "max_run": 20,
+      "all_views_overlap": 20,
+      "podcast": false
+    },
+    "7990": {
+      "cards": 0,
+      "max_run": 28,
+      "all_views_overlap": 68,
+      "podcast": false
+    },
+    "9116": {
+      "cards": 0,
+      "max_run": 32,
+      "all_views_overlap": 310,
+      "podcast": false
+    },
+    "9505": {
+      "cards": 0,
+      "max_run": 21,
+      "all_views_overlap": 102,
+      "podcast": false
+    },
+    "9955": {
+      "cards": 0,
+      "max_run": 0,
+      "all_views_overlap": 0,
       "podcast": false
     }
   },
