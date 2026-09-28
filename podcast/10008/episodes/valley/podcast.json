@@ -1,0 +1,20 @@
+{
+  "book_id": "10008-valley",
+  "title": "蒂尔与硅谷：技术的成功和社会的进步要分开看",
+  "duration_s": 516.7,
+  "audio": "podcast/10008/episodes/valley/episode.m4a",
+  "transcript": "podcast/10008/episodes/valley/transcript.json",
+  "generated_at": "2026-09-28T01:11:13Z",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "一个人的成功，背后是一张网",
+      "article_anchor": "people/thiel.html"
+    },
+    {
+      "start": 354.0,
+      "title": "技术的红利，落到谁身上",
+      "article_anchor": "article.html#s4"
+    }
+  ]
+}
