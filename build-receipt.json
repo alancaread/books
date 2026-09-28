@@ -389,6 +389,54 @@
       "max_run": 35,
       "all_views_overlap": 760,
       "podcast": false
+    },
+    "7369": {
+      "cards": 0,
+      "max_run": 82,
+      "all_views_overlap": 250,
+      "podcast": false
+    },
+    "7484": {
+      "cards": 0,
+      "max_run": 51,
+      "all_views_overlap": 183,
+      "podcast": false
+    },
+    "7517": {
+      "cards": 0,
+      "max_run": 24,
+      "all_views_overlap": 112,
+      "podcast": false
+    },
+    "7607": {
+      "cards": 0,
+      "max_run": 45,
+      "all_views_overlap": 69,
+      "podcast": false
+    },
+    "7622": {
+      "cards": 0,
+      "max_run": 36,
+      "all_views_overlap": 128,
+      "podcast": false
+    },
+    "7630": {
+      "cards": 0,
+      "max_run": 38,
+      "all_views_overlap": 124,
+      "podcast": false
+    },
+    "7660": {
+      "cards": 0,
+      "max_run": 56,
+      "all_views_overlap": 80,
+      "podcast": false
+    },
+    "7767": {
+      "cards": 0,
+      "max_run": 25,
+      "all_views_overlap": 25,
+      "podcast": false
     }
   },
   "errors": []
