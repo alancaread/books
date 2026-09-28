@@ -146,8 +146,8 @@
     },
     "7233": {
       "cards": 0,
-      "max_run": 0,
-      "all_views_overlap": 0,
+      "max_run": 24,
+      "all_views_overlap": 45,
       "podcast": false
     },
     "7280": {
