@@ -1,0 +1,25 @@
+{
+  "book_id": "10008-washington",
+  "title": "康诺顿与华盛顿：理想怎样穿过游说网络",
+  "duration_s": 721.8,
+  "audio": "podcast/10008/episodes/washington/episode.m4a",
+  "transcript": "podcast/10008/episodes/washington/transcript.json",
+  "generated_at": "2026-09-28T03:43:56Z",
+  "chapters": [
+    {
+      "start": 0,
+      "title": "一条修正案被否决的那一晚",
+      "article_anchor": "people/jeff.html"
+    },
+    {
+      "start": 320.42,
+      "title": "一位参议员的提问，书里没有下结论",
+      "article_anchor": "people/jeff.html"
+    },
+    {
+      "start": 366.52,
+      "title": "钱买到的是门票，不是整栋楼的钥匙",
+      "article_anchor": "wisdom.html"
+    }
+  ]
+}
