@@ -1,0 +1,20 @@
+{
+  "book_id": "10008-dean",
+  "title": "迪恩：把家乡的复兴押在一个计划上",
+  "duration_s": 673.0,
+  "audio": "podcast/10008/episodes/dean/episode.m4a",
+  "transcript": "podcast/10008/episodes/dean/transcript.json",
+  "generated_at": "2026-09-28T00:48:57Z",
+  "chapters": [
+    {
+      "start": 0,
+      "title": "把家乡押在一个计划上",
+      "article_anchor": "people/dean.html"
+    },
+    {
+      "start": 226.1,
+      "title": "目标拆成任务，比「相信」更靠得住",
+      "article_anchor": "article.html#s3"
+    }
+  ]
+}

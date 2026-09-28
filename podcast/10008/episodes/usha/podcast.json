@@ -1,0 +1,20 @@
+{
+  "book_id": "10008-usha",
+  "title": "乌莎与坦帕：成功故事里，谁站在画面之外",
+  "duration_s": 457.9,
+  "audio": "podcast/10008/episodes/usha/episode.m4a",
+  "transcript": "podcast/10008/episodes/usha/transcript.json",
+  "generated_at": "2026-09-28T00:41:21Z",
+  "chapters": [
+    {
+      "start": 0,
+      "title": "成功故事里，还站着谁",
+      "article_anchor": "people/usha.html"
+    },
+    {
+      "start": 307.2,
+      "title": "选择多了，失败后能不能撑住",
+      "article_anchor": "article.html#s4"
+    }
+  ]
+}

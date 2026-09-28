@@ -1,0 +1,20 @@
+{
+  "book_id": "10008-world",
+  "title": "同一个年代的世界：锈带的工厂去了哪里",
+  "duration_s": 537.9,
+  "audio": "podcast/10008/episodes/world/episode.m4a",
+  "transcript": "podcast/10008/episodes/world/transcript.json",
+  "generated_at": "2026-09-28T01:01:46Z",
+  "chapters": [
+    {
+      "start": 0,
+      "title": "同一个年代，三个国家",
+      "article_anchor": "background.html"
+    },
+    {
+      "start": 408.5,
+      "title": "城市回来了，原来的人呢",
+      "article_anchor": "article.html#s3"
+    }
+  ]
+}

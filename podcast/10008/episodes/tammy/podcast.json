@@ -1,0 +1,20 @@
+{
+  "book_id": "10008-tammy",
+  "title": "塔米：一张文凭、一张班表、一个托儿所",
+  "duration_s": 495.5,
+  "audio": "podcast/10008/episodes/tammy/episode.m4a",
+  "transcript": "podcast/10008/episodes/tammy/transcript.json",
+  "generated_at": "2026-09-28T00:11:32Z",
+  "chapters": [
+    {
+      "start": 0,
+      "title": "从文凭到工作，路上还有什么",
+      "article_anchor": "people/tammy.html"
+    },
+    {
+      "start": 188.5,
+      "title": "培训之外，照护和班表也要接上",
+      "article_anchor": "article.html#s1"
+    }
+  ]
+}

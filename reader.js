@@ -75,3 +75,38 @@ if (coverDialog && coverOpener) {
   coverDialog.addEventListener('click', event => { if (event.target === coverDialog) coverDialog.close(); });
   coverDialog.addEventListener('close', () => coverOpener.focus());
 }
+
+(() => {
+ const deck=document.querySelector('#deck');
+ if(!deck)return;
+ const slides=[...deck.querySelectorAll('.slide')], controls=document.querySelector('.deck-controls');
+ const prev=document.querySelector('#prev'),next=document.querySelector('#next'),progress=document.querySelector('#progress');
+ let current=0,start=null;
+ function show(n,update=true){
+  current=Math.max(0,Math.min(slides.length-1,n));
+  slides.forEach((s,i)=>s.hidden=i!==current);
+  prev.disabled=current===0;next.disabled=current===slides.length-1;
+  progress.textContent=`${current+1} / ${slides.length}`;
+  if(update)history.replaceState(null,'',`#slide-${current+1}`);
+ }
+ function fromHash(){const m=location.hash.match(/^#slide-(\d+)$/);show(m?Number(m[1])-1:0,false);}
+ controls.hidden=false;fromHash();window.addEventListener('hashchange',fromHash);
+ prev.addEventListener('click',()=>show(current-1));next.addEventListener('click',()=>show(current+1));
+ document.addEventListener('keydown',e=>{
+  if(e.altKey||e.ctrlKey||e.metaKey||e.target.closest('input,textarea,select,[contenteditable]'))return;
+  if(e.key==='ArrowRight'){e.preventDefault();show(current+1);}
+  if(e.key==='ArrowLeft'){e.preventDefault();show(current-1);}
+  if(e.key==='Home'&&deck.contains(e.target)){e.preventDefault();show(0);}
+  if(e.key==='End'&&deck.contains(e.target)){e.preventDefault();show(slides.length-1);}
+ });
+ deck.addEventListener('touchstart',e=>{if(e.touches.length===1)start={x:e.touches[0].clientX,y:e.touches[0].clientY};},{passive:true});
+ deck.addEventListener('touchend',e=>{
+  if(!start||!e.changedTouches.length)return;
+  const dx=e.changedTouches[0].clientX-start.x,dy=e.changedTouches[0].clientY-start.y;start=null;
+  if(Math.abs(dx)>55&&Math.abs(dx)>Math.abs(dy)*1.4)show(current+(dx<0?1:-1));
+ },{passive:true});
+ deck.addEventListener('touchcancel',()=>start=null,{passive:true});
+})();
+
+(() => {const redirect=()=>{const id=decodeURIComponent(location.hash.slice(1));const node=document.getElementById(id);if(node?.dataset.redirect)location.replace(node.dataset.redirect);};redirect();addEventListener('hashchange',redirect);})();
+document.querySelectorAll('audio').forEach(audio=>audio.addEventListener('play',()=>document.querySelectorAll('audio').forEach(other=>{if(other!==audio)other.pause();})));

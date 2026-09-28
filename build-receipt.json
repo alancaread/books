@@ -2,8 +2,8 @@
   "books": {
     "10008": {
       "cards": 10,
-      "max_run": 20,
-      "all_views_overlap": 40,
+      "max_run": 30,
+      "all_views_overlap": 102,
       "podcast": true
     }
   },
