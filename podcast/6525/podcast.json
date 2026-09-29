@@ -1,0 +1,45 @@
+{
+  "book_id": "6525",
+  "title": "《园丁与木匠》：要中考高考的孩子，父母还能当园丁吗？",
+  "duration_s": 1067.4,
+  "audio": "podcast/6525/episode.m4a",
+  "transcript": "podcast/6525/transcript.json",
+  "generated_at": "2026-09-29T06:35:46-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场：parenting 这个词只有六十多年",
+      "article_anchor": "lecture"
+    },
+    {
+      "start": 80.68,
+      "title": "木匠与园丁",
+      "article_anchor": "lecture"
+    },
+    {
+      "start": 147.44,
+      "title": "《纽约书评》的批评与作者的预先回应",
+      "article_anchor": "external-view"
+    },
+    {
+      "start": 303.28,
+      "title": "看、听、玩：三个实验",
+      "article_anchor": "lecture"
+    },
+    {
+      "start": 588.72,
+      "title": "中考高考：书里说的与我们推想的",
+      "article_anchor": "lecture"
+    },
+    {
+      "start": 840.7,
+      "title": "屏幕与 AI：「我们真的不知道」",
+      "article_anchor": "lecture"
+    },
+    {
+      "start": 973.3,
+      "title": "结尾：罗南与「给养」",
+      "article_anchor": "top"
+    }
+  ]
+}

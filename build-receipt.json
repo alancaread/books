@@ -12,6 +12,12 @@
       "all_views_overlap": 168,
       "podcast": false
     },
+    "10132": {
+      "cards": 0,
+      "max_run": 25,
+      "all_views_overlap": 25,
+      "podcast": false
+    },
     "10286": {
       "cards": 0,
       "max_run": 0,
@@ -24,16 +30,52 @@
       "all_views_overlap": 227,
       "podcast": false
     },
+    "10477": {
+      "cards": 0,
+      "max_run": 23,
+      "all_views_overlap": 84,
+      "podcast": false
+    },
+    "10513": {
+      "cards": 0,
+      "max_run": 0,
+      "all_views_overlap": 0,
+      "podcast": false
+    },
+    "10574": {
+      "cards": 0,
+      "max_run": 0,
+      "all_views_overlap": 0,
+      "podcast": false
+    },
     "10611": {
       "cards": 0,
       "max_run": 20,
       "all_views_overlap": 20,
       "podcast": false
     },
+    "10730": {
+      "cards": 0,
+      "max_run": 25,
+      "all_views_overlap": 45,
+      "podcast": false
+    },
     "10802": {
       "cards": 0,
       "max_run": 0,
       "all_views_overlap": 0,
+      "podcast": false
+    },
+    "10835": {
+      "cards": 0,
+      "max_run": 36,
+      "all_views_overlap": 170,
+      "podcast": false
+    },
+    "11095": {
+      "cards": 0,
+      "max_run": 24,
+      "all_views_overlap": 45,
       "podcast": false
     },
     "11293": {
@@ -60,6 +102,12 @@
       "all_views_overlap": 619,
       "podcast": false
     },
+    "1823": {
+      "cards": 0,
+      "max_run": 47,
+      "all_views_overlap": 159,
+      "podcast": false
+    },
     "190": {
       "cards": 0,
       "max_run": 21,
@@ -72,10 +120,28 @@
       "all_views_overlap": 82,
       "podcast": false
     },
+    "2504": {
+      "cards": 0,
+      "max_run": 31,
+      "all_views_overlap": 219,
+      "podcast": false
+    },
     "2968": {
       "cards": 0,
       "max_run": 23,
       "all_views_overlap": 188,
+      "podcast": false
+    },
+    "3473": {
+      "cards": 0,
+      "max_run": 20,
+      "all_views_overlap": 20,
+      "podcast": false
+    },
+    "3811": {
+      "cards": 0,
+      "max_run": 0,
+      "all_views_overlap": 0,
       "podcast": false
     },
     "4116": {
@@ -102,6 +168,12 @@
       "all_views_overlap": 41,
       "podcast": false
     },
+    "6014": {
+      "cards": 0,
+      "max_run": 0,
+      "all_views_overlap": 0,
+      "podcast": false
+    },
     "6031": {
       "cards": 0,
       "max_run": 23,
@@ -117,13 +189,37 @@
     "6321": {
       "cards": 0,
       "max_run": 31,
-      "all_views_overlap": 219,
+      "all_views_overlap": 240,
+      "podcast": false
+    },
+    "6452": {
+      "cards": 0,
+      "max_run": 70,
+      "all_views_overlap": 90,
+      "podcast": false
+    },
+    "6473": {
+      "cards": 0,
+      "max_run": 21,
+      "all_views_overlap": 105,
       "podcast": false
     },
     "6525": {
       "cards": 0,
       "max_run": 21,
       "all_views_overlap": 21,
+      "podcast": true
+    },
+    "6884": {
+      "cards": 0,
+      "max_run": 0,
+      "all_views_overlap": 0,
+      "podcast": false
+    },
+    "6944": {
+      "cards": 0,
+      "max_run": 36,
+      "all_views_overlap": 145,
       "podcast": false
     },
     "6948": {
@@ -142,6 +238,12 @@
       "cards": 0,
       "max_run": 36,
       "all_views_overlap": 205,
+      "podcast": false
+    },
+    "7219": {
+      "cards": 0,
+      "max_run": 71,
+      "all_views_overlap": 1007,
       "podcast": false
     },
     "7233": {
@@ -168,10 +270,28 @@
       "all_views_overlap": 46,
       "podcast": false
     },
+    "7740": {
+      "cards": 0,
+      "max_run": 23,
+      "all_views_overlap": 112,
+      "podcast": false
+    },
     "777": {
       "cards": 0,
       "max_run": 27,
       "all_views_overlap": 27,
+      "podcast": false
+    },
+    "7776": {
+      "cards": 0,
+      "max_run": 24,
+      "all_views_overlap": 69,
+      "podcast": false
+    },
+    "7794": {
+      "cards": 0,
+      "max_run": 27,
+      "all_views_overlap": 424,
       "podcast": false
     },
     "7979": {
@@ -182,8 +302,8 @@
     },
     "8600": {
       "cards": 0,
-      "max_run": 29,
-      "all_views_overlap": 207,
+      "max_run": 36,
+      "all_views_overlap": 287,
       "podcast": false
     },
     "8868": {
@@ -378,6 +498,18 @@
       "all_views_overlap": 43,
       "podcast": false
     },
+    "1204": {
+      "cards": 0,
+      "max_run": 0,
+      "all_views_overlap": 0,
+      "podcast": false
+    },
+    "135": {
+      "cards": 0,
+      "max_run": 24,
+      "all_views_overlap": 24,
+      "podcast": false
+    },
     "1417": {
       "cards": 0,
       "max_run": 22,
@@ -420,6 +552,12 @@
       "all_views_overlap": 529,
       "podcast": false
     },
+    "2961": {
+      "cards": 0,
+      "max_run": 30,
+      "all_views_overlap": 230,
+      "podcast": false
+    },
     "3020": {
       "cards": 0,
       "max_run": 42,
@@ -430,6 +568,18 @@
       "cards": 0,
       "max_run": 41,
       "all_views_overlap": 64,
+      "podcast": false
+    },
+    "339": {
+      "cards": 0,
+      "max_run": 26,
+      "all_views_overlap": 46,
+      "podcast": false
+    },
+    "3501": {
+      "cards": 0,
+      "max_run": 41,
+      "all_views_overlap": 224,
       "podcast": false
     },
     "3862": {
@@ -474,10 +624,22 @@
       "all_views_overlap": 250,
       "podcast": false
     },
+    "4217": {
+      "cards": 0,
+      "max_run": 23,
+      "all_views_overlap": 23,
+      "podcast": false
+    },
     "4300": {
       "cards": 0,
       "max_run": 20,
       "all_views_overlap": 40,
+      "podcast": false
+    },
+    "4466": {
+      "cards": 0,
+      "max_run": 27,
+      "all_views_overlap": 27,
       "podcast": false
     },
     "4476": {
@@ -486,10 +648,28 @@
       "all_views_overlap": 54,
       "podcast": false
     },
+    "4856": {
+      "cards": 0,
+      "max_run": 0,
+      "all_views_overlap": 0,
+      "podcast": false
+    },
+    "4989": {
+      "cards": 0,
+      "max_run": 0,
+      "all_views_overlap": 0,
+      "podcast": false
+    },
     "5155": {
       "cards": 0,
       "max_run": 44,
       "all_views_overlap": 71,
+      "podcast": false
+    },
+    "5190": {
+      "cards": 0,
+      "max_run": 25,
+      "all_views_overlap": 25,
       "podcast": false
     },
     "5239": {
@@ -504,10 +684,22 @@
       "all_views_overlap": 0,
       "podcast": false
     },
+    "5385": {
+      "cards": 0,
+      "max_run": 36,
+      "all_views_overlap": 61,
+      "podcast": false
+    },
     "5433": {
       "cards": 0,
       "max_run": 41,
       "all_views_overlap": 279,
+      "podcast": false
+    },
+    "5550": {
+      "cards": 0,
+      "max_run": 41,
+      "all_views_overlap": 750,
       "podcast": false
     },
     "5766": {
@@ -576,6 +768,18 @@
       "all_views_overlap": 196,
       "podcast": false
     },
+    "6886": {
+      "cards": 0,
+      "max_run": 38,
+      "all_views_overlap": 167,
+      "podcast": false
+    },
+    "6977": {
+      "cards": 0,
+      "max_run": 26,
+      "all_views_overlap": 26,
+      "podcast": false
+    },
     "7010": {
       "cards": 0,
       "max_run": 21,
@@ -600,6 +804,12 @@
       "all_views_overlap": 0,
       "podcast": false
     },
+    "7229": {
+      "cards": 0,
+      "max_run": 0,
+      "all_views_overlap": 0,
+      "podcast": false
+    },
     "7306": {
       "cards": 0,
       "max_run": 49,
@@ -610,6 +820,12 @@
       "cards": 0,
       "max_run": 35,
       "all_views_overlap": 760,
+      "podcast": false
+    },
+    "7365": {
+      "cards": 0,
+      "max_run": 46,
+      "all_views_overlap": 512,
       "podcast": false
     },
     "7369": {
@@ -634,6 +850,12 @@
       "cards": 0,
       "max_run": 24,
       "all_views_overlap": 112,
+      "podcast": false
+    },
+    "7582": {
+      "cards": 0,
+      "max_run": 89,
+      "all_views_overlap": 631,
       "podcast": false
     },
     "7607": {
@@ -700,6 +922,18 @@
       "cards": 0,
       "max_run": 28,
       "all_views_overlap": 68,
+      "podcast": false
+    },
+    "818": {
+      "cards": 0,
+      "max_run": 0,
+      "all_views_overlap": 0,
+      "podcast": false
+    },
+    "850": {
+      "cards": 0,
+      "max_run": 23,
+      "all_views_overlap": 190,
       "podcast": false
     },
     "9116": {
