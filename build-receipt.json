@@ -224,8 +224,8 @@
     },
     "6525": {
       "cards": 0,
-      "max_run": 21,
-      "all_views_overlap": 21,
+      "max_run": 31,
+      "all_views_overlap": 73,
       "podcast": true
     },
     "6884": {
@@ -254,8 +254,8 @@
     },
     "7112": {
       "cards": 0,
-      "max_run": 23,
-      "all_views_overlap": 65,
+      "max_run": 24,
+      "all_views_overlap": 89,
       "podcast": false
     },
     "7123": {
