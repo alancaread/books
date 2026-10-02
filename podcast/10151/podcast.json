@@ -1,0 +1,15 @@
+{
+  "book_id": "10151",
+  "title": "《黄金的故事》：一集讲清这本书",
+  "duration_s": 887.2,
+  "audio": "podcast/10151/episode.m4a",
+  "transcript": "podcast/10151/transcript.json",
+  "generated_at": "2026-09-30T17:31:58-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场",
+      "article_anchor": "top"
+    }
+  ]
+}
