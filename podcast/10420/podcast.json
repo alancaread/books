@@ -1,0 +1,15 @@
+{
+  "book_id": "10420",
+  "title": "《海星式组织》：一集讲清这本书",
+  "duration_s": 962.1,
+  "audio": "podcast/10420/episode.m4a",
+  "transcript": "podcast/10420/transcript.json",
+  "generated_at": "2026-09-30T23:38:07-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场",
+      "article_anchor": "top"
+    }
+  ]
+}

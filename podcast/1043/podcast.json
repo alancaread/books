@@ -1,0 +1,15 @@
+{
+  "book_id": "1043",
+  "title": "《暴风雨的记忆》：一集讲清这本书",
+  "duration_s": 1447.0,
+  "audio": "podcast/1043/episode.m4a",
+  "transcript": "podcast/1043/transcript.json",
+  "generated_at": "2026-10-01T00:09:14-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场",
+      "article_anchor": "top"
+    }
+  ]
+}

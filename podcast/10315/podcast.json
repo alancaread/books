@@ -1,0 +1,15 @@
+{
+  "book_id": "10315",
+  "title": "《创造差异》：一集讲清这本书",
+  "duration_s": 1077.1,
+  "audio": "podcast/10315/episode.m4a",
+  "transcript": "podcast/10315/transcript.json",
+  "generated_at": "2026-09-30T22:19:06-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场",
+      "article_anchor": "top"
+    }
+  ]
+}
