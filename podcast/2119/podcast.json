@@ -1,0 +1,15 @@
+{
+  "book_id": "2119",
+  "title": "《技术的本质》：一集讲清这本书",
+  "duration_s": 1291.3,
+  "audio": "podcast/2119/episode.m4a",
+  "transcript": "podcast/2119/transcript.json",
+  "generated_at": "2026-10-03T04:30:13-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场",
+      "article_anchor": "top"
+    }
+  ]
+}

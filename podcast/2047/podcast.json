@@ -1,0 +1,15 @@
+{
+  "book_id": "2047",
+  "title": "《小顾聊绘画·贰》：一集讲清这本书",
+  "duration_s": 820.2,
+  "audio": "podcast/2047/episode.m4a",
+  "transcript": "podcast/2047/transcript.json",
+  "generated_at": "2026-10-03T03:59:21-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场",
+      "article_anchor": "top"
+    }
+  ]
+}

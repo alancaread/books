@@ -1,0 +1,15 @@
+{
+  "book_id": "408",
+  "title": "《群星都是你们的世界》：一集讲清这本书",
+  "duration_s": 808.2,
+  "audio": "podcast/408/episode.m4a",
+  "transcript": "podcast/408/transcript.json",
+  "generated_at": "2026-10-02T13:53:49-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场",
+      "article_anchor": "top"
+    }
+  ]
+}
