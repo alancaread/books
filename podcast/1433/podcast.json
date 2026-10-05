@@ -1,0 +1,15 @@
+{
+  "book_id": "1433",
+  "title": "《数学沉思录》：一集讲清这本书",
+  "duration_s": 1111.9,
+  "audio": "podcast/1433/episode.m4a",
+  "transcript": "podcast/1433/transcript.json",
+  "generated_at": "2026-10-02T23:40:57-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场",
+      "article_anchor": "top"
+    }
+  ]
+}
