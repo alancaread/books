@@ -1,0 +1,15 @@
+{
+  "book_id": "4053",
+  "title": "《战争的面目》：一集讲清这本书",
+  "duration_s": 1054.3,
+  "audio": "podcast/4053/episode.m4a",
+  "transcript": "podcast/4053/transcript.json",
+  "generated_at": "2026-10-10T04:20:09-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场",
+      "article_anchor": "top"
+    }
+  ]
+}
