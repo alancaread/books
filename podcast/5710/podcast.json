@@ -1,0 +1,15 @@
+{
+  "book_id": "5710",
+  "title": "《海盗共和国》：一集讲清这本书",
+  "duration_s": 930.9,
+  "audio": "podcast/5710/episode.m4a",
+  "transcript": "podcast/5710/transcript.json",
+  "generated_at": "2026-10-12T06:38:01-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场",
+      "article_anchor": "top"
+    }
+  ]
+}
