@@ -1,0 +1,30 @@
+{
+  "book_id": "1608",
+  "title": "《投资哲学：保守主义的智慧之灯》：一集讲清这本书",
+  "duration_s": 1233.8,
+  "audio": "podcast/1608/episode.m4a",
+  "transcript": "podcast/1608/transcript.json",
+  "generated_at": "2026-10-17T02:42:59-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场",
+      "article_anchor": "top"
+    },
+    {
+      "start": 420.5,
+      "title": "赚多少算够，「见好就收」算不算贪婪",
+      "article_anchor": "top"
+    },
+    {
+      "start": 817.2,
+      "title": "聪明人为什么更容易栽跟头：能力圈与「致命的自负」",
+      "article_anchor": "top"
+    },
+    {
+      "start": 1043.6,
+      "title": "政策说变就变，投资者怎么办：作者的「无赖假定」",
+      "article_anchor": "top"
+    }
+  ]
+}

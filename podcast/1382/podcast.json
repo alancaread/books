@@ -1,0 +1,20 @@
+{
+  "book_id": "1382",
+  "title": "《金融炼金术》：一集讲清这本书",
+  "duration_s": 1018.0,
+  "audio": "podcast/1382/episode.m4a",
+  "transcript": "podcast/1382/transcript.json",
+  "generated_at": "2026-10-17T00:42:13-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场",
+      "article_anchor": "top"
+    },
+    {
+      "start": 444.7,
+      "title": "贷款与抵押品：为什么繁荣慢、萧条快？",
+      "article_anchor": "top"
+    }
+  ]
+}
