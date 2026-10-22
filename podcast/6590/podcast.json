@@ -1,0 +1,50 @@
+{
+  "book_id": "6590",
+  "title": "《中国经济2019》：一集讲清这本书",
+  "duration_s": 634.6,
+  "audio": "podcast/6590/episode.m4a",
+  "transcript": "podcast/6590/transcript.json",
+  "generated_at": "2026-10-07T17:47:42-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场：2018 年的分裂与重构",
+      "article_anchor": "top"
+    },
+    {
+      "start": 64.0,
+      "title": "第四次金融危机与「十年周期」",
+      "article_anchor": "contents"
+    },
+    {
+      "start": 131.0,
+      "title": "过剩货币、P2P 与区块链",
+      "article_anchor": "contents"
+    },
+    {
+      "start": 210.0,
+      "title": "A 股的数字与口径",
+      "article_anchor": "contents"
+    },
+    {
+      "start": 280.0,
+      "title": "楼市与「三权」改革",
+      "article_anchor": "contents"
+    },
+    {
+      "start": 409.0,
+      "title": "企业、互联网与芯片",
+      "article_anchor": "contents"
+    },
+    {
+      "start": 500.0,
+      "title": "大消费与二次城市化",
+      "article_anchor": "contents"
+    },
+    {
+      "start": 560.0,
+      "title": "作者的结论与今天的变数",
+      "article_anchor": "contents"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "book_id": "5766",
+  "title": "《慢慢变富》：一集讲清这本书",
+  "duration_s": 978.7,
+  "audio": "podcast/5766/episode.m4a",
+  "transcript": "podcast/5766/transcript.json",
+  "generated_at": "2026-10-07T14:53:18-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场：散户为什么总是七亏二平一赚",
+      "article_anchor": "top"
+    },
+    {
+      "start": 60.0,
+      "title": "别学机构：闲钱和等得起",
+      "article_anchor": "contents"
+    },
+    {
+      "start": 183.0,
+      "title": "八不投负面清单与九把快刀",
+      "article_anchor": "contents"
+    },
+    {
+      "start": 335.0,
+      "title": "以年为单位持有，不是盲目持有",
+      "article_anchor": "contents"
+    },
+    {
+      "start": 397.0,
+      "title": "估值与安全边际",
+      "article_anchor": "contents"
+    },
+    {
+      "start": 552.0,
+      "title": "15% 增长假设到哪里不成立",
+      "article_anchor": "contents"
+    },
+    {
+      "start": 671.0,
+      "title": "波动算不算风险、什么时候卖",
+      "article_anchor": "contents"
+    },
+    {
+      "start": 760.0,
+      "title": "幸存者偏差",
+      "article_anchor": "contents"
+    },
+    {
+      "start": 828.0,
+      "title": "个人修养与女儿账户",
+      "article_anchor": "contents"
+    }
+  ]
+}

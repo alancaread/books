@@ -1,0 +1,45 @@
+{
+  "book_id": "7544",
+  "title": "《白领：美国的中产阶级》：上班赔着笑脸，我们卖的到底是时间，还是自己？",
+  "duration_s": 717.4,
+  "audio": "podcast/7544/episode.m4a",
+  "transcript": "podcast/7544/transcript.json",
+  "generated_at": "2026-10-10T00:34:47-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场：1882 年费城的三人办公室",
+      "article_anchor": "top"
+    },
+    {
+      "start": 93.0,
+      "title": "老式中产怎么被大企业挤掉",
+      "article_anchor": "contents"
+    },
+    {
+      "start": 253.0,
+      "title": "白领卖的不只是时间，还有人格",
+      "article_anchor": "contents"
+    },
+    {
+      "start": 376.0,
+      "title": "收入没拉开，地位恐慌却来了",
+      "article_anchor": "contents"
+    },
+    {
+      "start": 468.0,
+      "title": "后卫政治与工会",
+      "article_anchor": "contents"
+    },
+    {
+      "start": 556.0,
+      "title": "同行怎么批评这本书",
+      "article_anchor": "external-view"
+    },
+    {
+      "start": 671.0,
+      "title": "放到今天的职场看",
+      "article_anchor": "contents"
+    }
+  ]
+}
