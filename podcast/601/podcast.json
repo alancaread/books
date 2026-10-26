@@ -1,0 +1,15 @@
+{
+  "book_id": "601",
+  "title": "《留住手艺》：一集讲清这本书",
+  "duration_s": 620.9,
+  "audio": "podcast/601/episode.m4a",
+  "transcript": "podcast/601/transcript.json",
+  "generated_at": "2026-10-26T10:06:36-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场",
+      "article_anchor": "top"
+    }
+  ]
+}

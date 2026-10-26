@@ -1,0 +1,15 @@
+{
+  "book_id": "713",
+  "title": "《旅行与读书》：一集讲清这本书",
+  "duration_s": 1204.2,
+  "audio": "podcast/713/episode.m4a",
+  "transcript": "podcast/713/transcript.json",
+  "generated_at": "2026-10-25T22:57:35-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场",
+      "article_anchor": "top"
+    }
+  ]
+}

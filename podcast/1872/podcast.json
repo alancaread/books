@@ -1,0 +1,15 @@
+{
+  "book_id": "1872",
+  "title": "《TheDarkForest》：一集讲清这本书",
+  "duration_s": 938.3,
+  "audio": "podcast/1872/episode.m4a",
+  "transcript": "podcast/1872/transcript.json",
+  "generated_at": "2026-10-26T09:30:44-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场",
+      "article_anchor": "top"
+    }
+  ]
+}
