@@ -1,0 +1,20 @@
+{
+  "book_id": "9167",
+  "title": "《移情心理学》：一集讲清这本书",
+  "duration_s": 568.6,
+  "audio": "podcast/9167/episode.m4a",
+  "transcript": "podcast/9167/transcript.json",
+  "generated_at": "2026-10-25T23:31:24-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场",
+      "article_anchor": "top"
+    },
+    {
+      "start": 56.1,
+      "title": "为什么荣格要借十幅炼金术图来讲移情？",
+      "article_anchor": "top"
+    }
+  ]
+}

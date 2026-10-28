@@ -1,0 +1,20 @@
+{
+  "book_id": "8263",
+  "title": "《蒙古历史拼图》：一集讲清这本书",
+  "duration_s": 919.3,
+  "audio": "podcast/8263/episode.m4a",
+  "transcript": "podcast/8263/transcript.json",
+  "generated_at": "2026-10-25T22:32:30-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场",
+      "article_anchor": "top"
+    },
+    {
+      "start": 380.8,
+      "title": "花剌子模之战：先扔下白手套的是谁",
+      "article_anchor": "top"
+    }
+  ]
+}
