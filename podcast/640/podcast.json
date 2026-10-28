@@ -1,0 +1,20 @@
+{
+  "book_id": "640",
+  "title": "《千古一战神：韩信》：一集讲清这本书",
+  "duration_s": 842.6,
+  "audio": "podcast/640/episode.m4a",
+  "transcript": "podcast/640/transcript.json",
+  "generated_at": "2026-10-25T22:57:28-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场",
+      "article_anchor": "top"
+    },
+    {
+      "start": 516.1,
+      "title": "明修栈道之外：韩信的敌人是秦岭、黄河和太行山",
+      "article_anchor": "top"
+    }
+  ]
+}

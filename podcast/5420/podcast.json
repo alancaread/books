@@ -1,0 +1,20 @@
+{
+  "book_id": "5420",
+  "title": "《全球科技通史》：一集讲清这本书",
+  "duration_s": 1027.1,
+  "audio": "podcast/5420/episode.m4a",
+  "transcript": "podcast/5420/transcript.json",
+  "generated_at": "2026-10-26T13:01:28-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场",
+      "article_anchor": "top"
+    },
+    {
+      "start": 130.0,
+      "title": "狩猎采集日子更悠闲，人类为什么还是下地种田？",
+      "article_anchor": "top"
+    }
+  ]
+}

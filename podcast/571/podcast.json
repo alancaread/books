@@ -1,0 +1,15 @@
+{
+  "book_id": "571",
+  "title": "《物理世界奇遇记》：一集讲清这本书",
+  "duration_s": 713.8,
+  "audio": "podcast/571/episode.m4a",
+  "transcript": "podcast/571/transcript.json",
+  "generated_at": "2026-10-26T12:26:02-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场",
+      "article_anchor": "top"
+    }
+  ]
+}

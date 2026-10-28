@@ -1,0 +1,15 @@
+{
+  "book_id": "97",
+  "title": "《人造恐慌》：一集讲清这本书",
+  "duration_s": 751.6,
+  "audio": "podcast/97/episode.m4a",
+  "transcript": "podcast/97/transcript.json",
+  "generated_at": "2026-10-26T13:01:25-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场",
+      "article_anchor": "top"
+    }
+  ]
+}
