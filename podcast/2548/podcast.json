@@ -1,0 +1,20 @@
+{
+  "book_id": "2548",
+  "title": "《成就好爸爸：男人一生最重要的工作》：一集讲清这本书",
+  "duration_s": 1290.2,
+  "audio": "podcast/2548/episode.m4a",
+  "transcript": "podcast/2548/transcript.json",
+  "generated_at": "2026-10-26T12:25:37-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场",
+      "article_anchor": "top"
+    },
+    {
+      "start": 434.1,
+      "title": "一周工作七十小时，怎么把家摆到第一位",
+      "article_anchor": "top"
+    }
+  ]
+}

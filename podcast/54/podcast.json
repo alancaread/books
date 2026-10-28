@@ -1,0 +1,15 @@
+{
+  "book_id": "54",
+  "title": "《德国式英雄》：一集讲清这本书",
+  "duration_s": 596.1,
+  "audio": "podcast/54/episode.m4a",
+  "transcript": "podcast/54/transcript.json",
+  "generated_at": "2026-10-26T12:06:05-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场",
+      "article_anchor": "top"
+    }
+  ]
+}

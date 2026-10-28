@@ -1,0 +1,20 @@
+{
+  "book_id": "9393",
+  "title": "《变革性创新》：一集讲清这本书",
+  "duration_s": 1024.7,
+  "audio": "podcast/9393/episode.m4a",
+  "transcript": "podcast/9393/transcript.json",
+  "generated_at": "2026-10-25T22:57:37-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场",
+      "article_anchor": "top"
+    },
+    {
+      "start": 373.7,
+      "title": "看见颠覆就该先砍掉旧业务吗？IBM 大型机和个人电脑的账",
+      "article_anchor": "top"
+    }
+  ]
+}

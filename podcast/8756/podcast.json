@@ -1,0 +1,15 @@
+{
+  "book_id": "8756",
+  "title": "《中国人生哲学》：一集讲清这本书",
+  "duration_s": 805.6,
+  "audio": "podcast/8756/episode.m4a",
+  "transcript": "podcast/8756/transcript.json",
+  "generated_at": "2026-10-28T03:03:29-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场",
+      "article_anchor": "top"
+    }
+  ]
+}

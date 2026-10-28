@@ -1,0 +1,25 @@
+{
+  "book_id": "8955",
+  "title": "《投资的怪圈》：一集讲清这本书",
+  "duration_s": 780.3,
+  "audio": "podcast/8955/episode.m4a",
+  "transcript": "podcast/8955/transcript.json",
+  "generated_at": "2026-10-25T22:57:38-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场",
+      "article_anchor": "top"
+    },
+    {
+      "start": 398.6,
+      "title": "明知中奖概率只有 1/41416353，为什么还想买彩票？",
+      "article_anchor": "top"
+    },
+    {
+      "start": 540.0,
+      "title": "人人觉得自己高于平均，投资会出什么问题？",
+      "article_anchor": "top"
+    }
+  ]
+}

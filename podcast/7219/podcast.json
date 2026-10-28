@@ -1,0 +1,15 @@
+{
+  "book_id": "7219",
+  "title": "《AI的25种可能》：一集讲清这本书",
+  "duration_s": 816.5,
+  "audio": "podcast/7219/episode.m4a",
+  "transcript": "podcast/7219/transcript.json",
+  "generated_at": "2026-10-25T22:57:52-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场",
+      "article_anchor": "top"
+    }
+  ]
+}
