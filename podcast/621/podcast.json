@@ -1,0 +1,15 @@
+{
+  "book_id": "621",
+  "title": "《什么是战略》：一集讲清这本书",
+  "duration_s": 1183.2,
+  "audio": "podcast/621/episode.m4a",
+  "transcript": "podcast/621/transcript.json",
+  "generated_at": "2026-10-28T21:08:04-07:00",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场",
+      "article_anchor": "top"
+    }
+  ]
+}
